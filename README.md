@@ -77,7 +77,15 @@
 
 ## 📂 Project Structure
 
+```bash
+ChatLink/
+│
+├── tcp/
+│   ├── s.py  # TCP server script
+│   └── c.py  # TCP client script
+│
+└── udp/
+    ├── s.py  # UDP server script
+    └── c.py  # UDP client script
 
-
-
-		
+```
